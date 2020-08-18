@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+   background: url("ltotbngnzzu.jpg") no-repeat center fixed;
+   background-size: cover;
+   font-family: aroma;
+}
+.wrapper{
+    margin: 40px 20px;
+}
+.row-content{
+    background: rgb(231, 226, 226, 0.8);
+    border-radius: 2vh;
+    padding:20px 0px;
+}
+.content{
+    margin-top: 250px;
+}
+h1{
+    font-size: 40px;
+    color: white;
+}
+p{
+    font-size: 18px;
+    color: white;
+}
